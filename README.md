@@ -56,7 +56,12 @@ Module for providing lists of the official names in a calendar by specific count
   <summary>My YouTube Videos</summary>
 
   <!-- YOUTUBE:START -->
-  <!-- YOUTUBE:END -->
+- [How to mocking in the create-react-app &lpar;REST API&rpar;](https://www.youtube.com/watch?v=u-gnCBFHX8g)
+- [Create a simple mock server based on Node.js with Express and connect-api-mocker | Docker version](https://www.youtube.com/watch?v=1lc0qUvANrY)
+- [Campaign URL Builder for Business Catalyst](https://www.youtube.com/watch?v=kPBrcS5JqpY)
+- [Snow effect APP for Business Catalyst](https://www.youtube.com/watch?v=kCYUflE6PLA)
+- [Coming soon APP for Adobe Business Catalyst](https://www.youtube.com/watch?v=kph2u0E7MKU)
+<!-- YOUTUBE:END -->
 
 </details>
 
