@@ -15,5 +15,6 @@ jobs:
         with:
           comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://medium.com/feed/@peterknezek"
+          commit_message: "Updated with the latest Medium articles"
           committer_username: ${{ secrets.GIT_COMMITTER_USERNAME }}
           committer_email: ${{ secrets.GIT_COMMITTER_EMAIL }}
