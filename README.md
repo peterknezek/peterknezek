@@ -18,6 +18,13 @@ Extract response from .har file and create JSON mocks for mock server.
 [![Version](https://img.shields.io/npm/v/har-to-mocks.svg)](https://npmjs.org/package/har-to-mocks)
 [![Downloads/week](https://img.shields.io/npm/dw/har-to-mocks.svg)](https://npmjs.org/package/har-to-mocks)
 
+### mocks-to-msw
+
+An adapter that provides mocks generated from the `har-to-mocks` to the MSW.
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/peterknezek/mocks-to-msw)
+[![Version](https://img.shields.io/npm/v/mocks-to-msw.svg)](https://npmjs.org/package/mocks-to-msw)
+[![Downloads/week](https://img.shields.io/npm/dw/mocks-to-msw.svg)](https://npmjs.org/package/mocks-to-msw)
 
 ### name-day-calendar
 
