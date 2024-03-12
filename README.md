@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-About me in one sentence: From a graphic designer and UX&UI specialist to a highly skilled software engineer with demonstrable team lead experience focused on the latest technologies in the frontend development
+About me in one sentence:  A highly skilled senior software engineer with demonstrable team lead experience focused on the latest technologies in the frontend development with past in graphic design and UX&UI field.
 
 - 🔭 I’m currently working on my skills in the mobile development... 
 - 🌱 Currently I'm broading my skillset in the **React Native**, **NodeJS**, **Swift**
