@@ -53,6 +53,7 @@ Module for providing lists of the official names in a calendar by specific count
   <summary>My Blog Posts</summary>
 
   <!-- BLOG-POST-LIST:START -->
+- [Streamline Your Storybook API Mocking with mocks-to-msw](https://medium.com/@peterknezek/streamline-your-storybook-api-mocking-with-mocks-to-msw-868f92f28fd6?source=rss-211ae587e55d------2)
 - [Mocking REST responses in create-react-app project](https://medium.com/@peterknezek/mocking-rest-responses-in-create-react-app-project-3c94694193bf?source=rss-211ae587e55d------2)
 - [Create a simple mock server based on Node.js with Express and connect-api-mocker](https://medium.com/@peterknezek/create-a-simple-mock-server-based-on-node-js-with-express-and-connect-api-mocker-ee900cec2950?source=rss-211ae587e55d------2)
 <!-- BLOG-POST-LIST:END -->
