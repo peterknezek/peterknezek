@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-About me in one sentence:  A highly skilled senior software engineer with demonstrable team lead experience focused on the latest technologies in the frontend development with past in graphic design and UX&UI field.
+About me in one sentence:  
+Senior Frontend Engineer & team lead building AI-powered dev tools that save devs hours. Ex-graphic designer turned clean-code evangelist with a passion for Storybook, MSW and modern workflows.
 
-- 🔭 I’m currently working on my skills in the mobile development... 
-- 🌱 Currently I'm broading my skillset in the **React Native**, **NodeJS**, **Swift**
-- 🍔 My favorite stack: **React** (TS), **Storybook**, **Jest**, **NodeJS** (tooling), **Github** 
+- 🔭 I’m currently working on AI-powered mocking tools and custom ESLint rules for large-scale refactors  
+- 🌱 Currently broadening my skillset in **AI code review automation**, **React Native**, **NodeJS** and **Swift**  
+- 🍔 My favorite stack: **React** (TS), **Storybook**, **MSW**, **Jest**, **NodeJS** (tooling), **GitHub** 
+
 
 ### Code examples
 <details>
@@ -12,7 +14,7 @@ About me in one sentence:  A highly skilled senior software engineer with demons
 
 ### har-to-mocks
 
-Extract response from .har file and create JSON mocks for mock server.
+Extract responses from Chrome .har files and generate clean JSON mocks in seconds. Perfect for Storybook and MSW workflows.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/peterknezek/har-to-mocks)
 [![Version](https://img.shields.io/npm/v/har-to-mocks.svg)](https://npmjs.org/package/har-to-mocks)
@@ -20,7 +22,7 @@ Extract response from .har file and create JSON mocks for mock server.
 
 ### mocks-to-msw
 
-An adapter that provides mocks generated from the `har-to-mocks` to the MSW.
+An adapter that turns har-to-mocks output into ready-to-use MSW handlers. Saves hours in every React/Storybook project.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/peterknezek/mocks-to-msw)
 [![Version](https://img.shields.io/npm/v/mocks-to-msw.svg)](https://npmjs.org/package/mocks-to-msw)
