@@ -4,8 +4,8 @@ About me in one sentence:
 Senior Frontend Engineer & team lead building AI-powered dev tools that save devs hours. Ex-graphic designer turned clean-code evangelist with a passion for Storybook, MSW and modern workflows.
 
 - 🔭 I’m currently working on AI-powered mocking tools and custom ESLint rules for large-scale refactors  
-- 🌱 Currently broadening my skillset in **AI code review automation**, **React Native**, **NodeJS** and **Swift**  
-- 🍔 My favorite stack: **React** (TS), **Storybook**, **MSW**, **Jest**, **NodeJS** (tooling), **GitHub** 
+- 🌱 Currently broadening my skillset in **AI automation**, **React**, **Next.js** web development as automated workflows...  
+- 🍔 My favorite stack: **React** (TypeScript), **Storybook** (sandbox development), **Next.js**, **React Native**, **GitHub**, **Vitest**
 
 
 ### Code examples
