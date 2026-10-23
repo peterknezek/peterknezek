@@ -28,6 +28,14 @@ An adapter that turns har-to-mocks output into ready-to-use MSW handlers. Saves 
 [![Version](https://img.shields.io/npm/v/mocks-to-msw.svg)](https://npmjs.org/package/mocks-to-msw)
 [![Downloads/week](https://img.shields.io/npm/dw/mocks-to-msw.svg)](https://npmjs.org/package/mocks-to-msw)
 
+### mocks-to-playwright
+
+An adapter that serves har-to-mocks output in Playwright tests through `page.route()`. Type-safe, per-endpoint JSON mocks for your E2E suite instead of one giant HAR recording.
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/peterknezek/mocks-to-playwright)
+[![Version](https://img.shields.io/npm/v/mocks-to-playwright.svg)](https://npmjs.org/package/mocks-to-playwright)
+[![Downloads/week](https://img.shields.io/npm/dw/mocks-to-playwright.svg)](https://npmjs.org/package/mocks-to-playwright)
+
 ### name-day-calendar
 
 Module for providing lists of the official names in a calendar by specific country. Name by day with additional options (e.g.by sex). Contain names database, handlers, and types for TypeScript.
